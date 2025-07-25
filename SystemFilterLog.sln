@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemFilterLog", "SystemFilterLog\SystemFilterLog.csproj", "{213BEBEA-26E2-45C6-A2F2-2C285A6CC789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryAnDMutationsProducts", "FactoryAnDMutationsProducts\FactoryAnDMutationsProducts.csproj", "{AD7522EB-3E19-4A99-9893-9394FCA9D30F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{213BEBEA-26E2-45C6-A2F2-2C285A6CC789}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{213BEBEA-26E2-45C6-A2F2-2C285A6CC789}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{213BEBEA-26E2-45C6-A2F2-2C285A6CC789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7522EB-3E19-4A99-9893-9394FCA9D30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7522EB-3E19-4A99-9893-9394FCA9D30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7522EB-3E19-4A99-9893-9394FCA9D30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7522EB-3E19-4A99-9893-9394FCA9D30F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
